@@ -2,6 +2,7 @@ Open project in VsCode editor
 Enter command as follow : 
 1. cd client
 2. npm start
+
 Open another terminal and enter command as follows:
 1. cd server
 2. npm start
