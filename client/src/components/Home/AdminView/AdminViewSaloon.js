@@ -88,7 +88,7 @@ const AdminView = () => {
         <Redirect to={{ pathname: "/" }} />
       ) : connected === true ? (
         <div>
-          <h1 align="center">Booking Saloon record</h1>
+          <h1 align="center">Saloon record</h1>
 
           <TableContainer component={Paper}>
             <Table className={classes.table} aria-label="customized table">
