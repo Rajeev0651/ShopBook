@@ -22,4 +22,5 @@ Drawbacks:
 3. Rich features is not present. Just a simple demo application.
 
 Front-End : ReactJS, HTML/CSS, MaterialUI
+
 Back-End : MongoDB, JWT.
