@@ -8,7 +8,7 @@ Open another terminal and enter command as follows:
 2. npm start
 
 About project:
-This small project is made as an internship assignment purspose. Since this project is made under 15 hours of work. So, it may contain some minor and major bugs. As testing time null.
+This small project is made as an internship assignment purspose. Since this project is made under 15 hours of work. So, it may contain some minor and major bugs. Testing time is not invested.
 This project heavily depends on code reusability.
 
 Features:
